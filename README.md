@@ -15,12 +15,6 @@ This is a simple GUI application built using Python and the Tkinter library. It 
 3. **Click "Calculate":** The application will convert the miles to kilometers and display the result.
 4. **Clear input:** Clear the input field to perform another conversion.
 
-**Things to improve this application, consider:**
-
-* **Adding a "Clear" button:** To easily clear the input and output fields.
-* **Implementing kilometer-to-miles conversion:** Allow users to convert distances in both directions.
-* **Improving error handling:** Provide more specific error messages for different types of invalid input.
-
 This project demonstrates basic GUI development with Tkinter, including:
 
 * Creating and positioning GUI elements (labels, buttons, entry fields).
